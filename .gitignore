@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+catboost_info/
+results/
+results_optimized/
+.DS_Store
+*.joblib
